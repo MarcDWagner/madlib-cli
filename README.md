@@ -1,4 +1,4 @@
-# Lab - Class 01
+# Lab - Class 3
 
 ## Project: Mad Lib
 
